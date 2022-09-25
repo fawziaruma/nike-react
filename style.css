@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&display=swap');
+.front{
+    font-family: 'Roboto', sans-serif;
+}
+.heading{
+    background-color: #FFF9F4;
+    margin-top: 10px;
+}
+.group img{
+    width: 440px;
+    height: 240px;
+}
+.banner{
+    width: 357px;
+    height: 304px;
+}
