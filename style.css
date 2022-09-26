@@ -14,3 +14,11 @@
     width: 357px;
     height: 304px;
 }
+h4{
+    color: #FA804C;
+    font-weight: 900px;
+    display: inline-block;
+}
+.btn {
+    margin-left: 50px;
+}
